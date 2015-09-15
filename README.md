@@ -43,3 +43,7 @@ $('#mySlip').slip();
 ```
 
 That's all there is to it.
+
+### To Do
+
+* Update plugin to not use jQuery
